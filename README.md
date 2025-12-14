@@ -19,3 +19,8 @@ btw.community:btw-fabric:$version:javadoc
 ```
 btw.community:intermediary:1.5.2
 ```
+
+## Mappings Artifacts
+```
+btw.community:mappings:1.0.3
+```
